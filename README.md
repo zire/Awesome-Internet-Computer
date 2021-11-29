@@ -148,3 +148,7 @@ Skipping verification of availability of the canister on the network due to --fo
 Setting wallet for identity 'default' on network 'ic' to id 'your-wallet-id'
 Wallet set successfully.
 ```
+
+***Other**
+
+Add a `.gitignore` file in the root directory with 
